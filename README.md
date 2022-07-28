@@ -15,8 +15,8 @@
 
 ## | Descrição |
 
-Projeto de Conversor de moedas, proposto no curso de Desenvolvimento FrontEnd da Digital House.
-A ideia era adicionar as funcionalidades com JavaScript Vanilla.
+Projeto de Conversor de moedas, proposto no curso de Desenvolvimento FrontEnd da Digital House. <br>
+A ideia era adicionar as funcionalidades com JavaScript Vanilla. <br>
 A estrutura HTML e o CSS ja estavam prontos, fiz somente alguns ajustes no design e também para melhorar a responsividade.
 
 ## | Deploy do projeto |
