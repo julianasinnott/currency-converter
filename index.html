@@ -1,0 +1,46 @@
+<!DOCTYPE >
+<html>
+
+    <head>
+        <title>Prática 03</title>
+        <meta charset="UTF-8" />
+        <link rel="stylesheet" href="./styles.css">
+        <script defer src="./script.js"></script>
+    </head>
+
+    <body>
+        <div class="container">
+            <div class="card">
+                <img src="./logo.png" class="logo" alt="Convert My Money">
+
+
+                <form id="form" class="form">
+                    <div class="form-group">
+                        <label for="real">Real: </label>
+                        <input
+                        onfocus="clearInputs(this)"
+                        id="real" type="text" name="real" class="form-input real"
+                            placeholder="Cotação do Real">
+                    </div>
+                    <div class="form-group">
+                        <label for="dollar">Dolar: </label>
+                        <input
+                        onfocus="clearInputs(this)"
+                        id="dollar" type="text" name="dollar" class="form-input dollar"
+                            placeholder="Cotação do Dolar">
+                    </div>
+                    <div class="form-group">
+                        <label for="euro">Euro: </label>
+                        <input
+                        onfocus="clearInputs(this)"
+                        id="euro" type="text" name="euro" class="form-input euro"
+                            placeholder="Cotação do Euro">
+                    </div>
+                    <button name="button" class="btn">convert</button>
+
+                </form>
+            </div>
+        </div>
+    </body>
+
+</html>
