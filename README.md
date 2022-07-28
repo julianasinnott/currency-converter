@@ -16,12 +16,16 @@
 ## | Descrição |
 
 Projeto de Conversor de moedas, proposto no curso de Desenvolvimento FrontEnd da Digital House. <br>
-A ideia era adicionar as funcionalidades com JavaScript Vanilla. <br>
-A estrutura HTML e o CSS ja estavam prontos, fiz somente alguns ajustes no design e também para melhorar a responsividade.
+A ideia era realizar requisições assíncronas, consumindo uma API e também adicionar o restante das funcionalidades com JavaScript Vanilla.
+A estrutura HTML e o CSS ja estavam prontos, fiz somente alguns ajustes no design e também na responsividade.
 
 ## | Deploy do projeto |
 
 🔗 https://julianasinnott.github.io/currency-converter/ 🔗
+
+## | API |
+
+[API de Cotação de Moedas](https://docs.awesomeapi.com.br/api-de-moedas)
 
 ## | Como rodar |
 
