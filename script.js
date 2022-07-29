@@ -3,7 +3,6 @@ const {real, dollar, euro} = form
 
 form.addEventListener('submit', e => {
   e.preventDefault()
-  console.log(e)
   getData()
 })
 
@@ -37,7 +36,7 @@ function setData(data) {
 
 function validationInputs(value) {
   if (value != '' && value.includes(',')) {
-    alert('Utilize ponto (.) ao invés de vírgulas (,)')
+    alert('Utilize ponto (.) ao invés de vírgula (,)')
   }
 }
 
